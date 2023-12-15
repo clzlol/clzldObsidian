@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key Concepts/Query.md",
+                "file": "Obsidian Plugins/Dataview.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Plugins/Dataview.md",
+                "file": "Key Concepts/MarkDown.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,17 +160,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d7684db7ee9950ad",
+  "active": "867bca8ca18f3bba",
   "lastOpenFiles": [
+    "Key Concepts/MarkDown.md",
+    "Obsidian Plugins/Dataview.md",
+    "Key Concepts/Query.md",
     "Obsidian Plugins/Projects.md",
     "Obsidian Plugins/Remember Cursor Position.md",
-    "Key Concepts/MarkDown.md",
-    "Key Concepts/Query.md",
     "Key Concepts/Structured Query Language.md",
     "Obsidian Plugins/Obsidian Git.md",
     "Obsidian Plugins/Execute Code.md",
     "Obsidian Plugins/Excalidraw.md",
-    "Obsidian Plugins/Dataview.md",
     "Key Concepts",
     "Obsidian Plugins/imgSrc/projects add view.png",
     "Obsidian Plugins/imgSrc/projects created.png",
