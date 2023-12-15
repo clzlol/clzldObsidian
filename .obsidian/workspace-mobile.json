@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key Concepts/MarkDown.md",
+                "file": "Key Concepts/Java/Get Inputs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Key Concepts/MarkDown.md",
+            "file": "Key Concepts/Java/Get Inputs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Key Concepts/MarkDown.md",
+            "file": "Key Concepts/Java/Get Inputs.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Key Concepts/MarkDown.md"
+            "file": "Key Concepts/Java/Get Inputs.md"
           }
         }
       }
@@ -135,6 +135,7 @@
   },
   "active": "b290be637739517f",
   "lastOpenFiles": [
+    "Key Concepts/MarkDown.md",
     "Obsidian Plugins/Obsidian Git.md",
     "Key Concepts/Java",
     "Key Concepts/Java/Get Inputs.md",
@@ -157,7 +158,6 @@
     "Obsidian Plugins",
     "README.md",
     "Key Concepts/Query.md",
-    "Key Concepts/MarkDown.md",
     "Key Concepts/Structured Query Language.md",
     "Key Concepts"
   ]
