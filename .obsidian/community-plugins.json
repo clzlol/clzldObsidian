@@ -3,5 +3,7 @@
   "remember-cursor-position",
   "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
-  "dataview"
+  "dataview",
+  "execute-code",
+  "obsidian-git"
 ]
