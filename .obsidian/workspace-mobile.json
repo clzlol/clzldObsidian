@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "af2fc6f168e2526d",
+    "id": "38d2b65b9bc18ccd",
     "type": "split",
     "children": [
       {
-        "id": "9cc3914f6ae552e5",
+        "id": "a2472584bb41e46b",
         "type": "tabs",
         "children": [
           {
-            "id": "c14245f036669357",
+            "id": "00de9ac5a7bee8ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Plugins/Obsidian Git.md",
+                "file": "Key Concepts/Java/Get Inputs.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "262d82c57f294059",
+    "id": "c8b104b09b5feaa1",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b290be637739517f",
+        "id": "28e10ec9cdb2eddc",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +39,7 @@
         }
       },
       {
-        "id": "ebec150fc576c9fb",
+        "id": "dffdc5ce42246e39",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "db6bdecd535b7e06",
+        "id": "6dbaa6a6350633ef",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +65,7 @@
         }
       },
       {
-        "id": "71ff52723a3c480d",
+        "id": "2cf17d7034483847",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "d8af8a82ef4596ab",
+    "id": "69a54c4a436f056f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "a4cf90d591860b1f",
+        "id": "b21988af1b45917c",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Plugins/Obsidian Git.md",
+            "file": "Key Concepts/Java/Get Inputs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,24 +97,24 @@
         }
       },
       {
-        "id": "2d4233b5a6b70672",
+        "id": "98396ddbe56b17e1",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Obsidian Plugins/Obsidian Git.md",
+            "file": "Key Concepts/Java/Get Inputs.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "ba58998a418acf67",
+        "id": "63a2f311db6499d4",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Obsidian Plugins/Obsidian Git.md"
+            "file": "Key Concepts/Java/Get Inputs.md"
           }
         }
       }
@@ -123,28 +123,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-projects:Open projects": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-projects:Open projects": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "c14245f036669357",
+  "active": "28e10ec9cdb2eddc",
   "lastOpenFiles": [
-    "Obsidian Plugins/imgSrc/git error.png",
-    "Key Concepts/MarkDown.md",
-    "Key Concepts/ssh.md",
     "Key Concepts/프로토콜.md",
-    "Key Concepts/https.md",
-    "Key Concepts/Git.md",
     "Key Concepts/http.md",
-    "Key Concepts/Java/Get Inputs.md",
+    "Key Concepts/Git.md",
+    "Key Concepts/https.md",
+    "Key Concepts/ssh.md",
+    "Errors/Git",
+    "Errors",
+    "Errors/Git/gitignore 관련 에러들.md",
+    "Obsidian Plugins/imgSrc/git error.png",
     "Obsidian Plugins/Obsidian Git.md",
     "Key Concepts/Java",
+    "Key Concepts/Java/Get Inputs.md",
     "Obsidian Plugins/imgSrc/projects created.png",
     "Obsidian Plugins/imgSrc/automatic.png",
     "Obsidian Plugins/imgSrc/execute code.png",
@@ -154,7 +156,6 @@
     "Obsidian Plugins/imgSrc/projects create.png",
     "Obsidian Plugins/imgSrc/projects properties.png",
     "Obsidian Plugins/imgSrc/projects add view.png",
-    "Obsidian Plugins/imgSrc/Community plugins.png",
     "Obsidian Plugins/Projects.md",
     "Obsidian Plugins/Remember Cursor Position.md",
     "Obsidian Plugins/Dataview.md",
@@ -164,6 +165,7 @@
     "Obsidian Plugins",
     "README.md",
     "Key Concepts/Query.md",
+    "Key Concepts/MarkDown.md",
     "Key Concepts/Structured Query Language.md",
     "Key Concepts"
   ]
