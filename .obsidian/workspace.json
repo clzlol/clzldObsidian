@@ -23,8 +23,12 @@
             "id": "6751a4fcda6a0084",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Obsidian Git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian/Obsidian Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian/Obsidian Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian/Obsidian Git.md"
+              }
             }
           }
         ]
@@ -153,6 +161,9 @@
   },
   "active": "6751a4fcda6a0084",
   "lastOpenFiles": [
+    "Obsidian/imgSrc/Obsidian Git.png",
+    "Obsidian/imgSrc/Community plugins.png",
+    "Obsidian/imgSrc/gitignore.png",
     "Obsidian/Obsidian Git.md",
     "Obsidian/imgSrc/Git Repo.png",
     "Obsidian/imgSrc",
