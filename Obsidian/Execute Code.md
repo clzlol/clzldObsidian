@@ -20,7 +20,7 @@ print("hello")
 
 ```run-javascript
 
-console.log("hello")
+console.log("hello");
 ```
 
 ## Execute Code 설정
