@@ -26,3 +26,5 @@ TABLE
 	urgent as "urgent"
 FROM "Key Concepts"
 ```
+
+DQL에는 다양한 연산자가 있어서 필터링, 정렬, 그룹화 등 많은 작업을 할 수 있다. DQL로 할 수 있는 작업들은 [공식 웹사이트](https://blacksmithgu.github.io/obsidian-dataview/queries/structure/)에서 찾아볼 수 있다. 
