@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key Concepts/Java/Get Inputs.md",
+                "file": "Errors/Git/gitignore 관련 에러들.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Key Concepts/Java/Get Inputs.md",
+            "file": "Errors/Git/gitignore 관련 에러들.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Key Concepts/Java/Get Inputs.md",
+            "file": "Errors/Git/gitignore 관련 에러들.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Key Concepts/Java/Get Inputs.md"
+            "file": "Errors/Git/gitignore 관련 에러들.md"
           }
         }
       }
@@ -133,8 +133,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28e10ec9cdb2eddc",
+  "active": "00de9ac5a7bee8ab",
   "lastOpenFiles": [
+    "Key Concepts/Java/Get Inputs.md",
     "Key Concepts/프로토콜.md",
     "Key Concepts/http.md",
     "Key Concepts/Git.md",
@@ -146,7 +147,6 @@
     "Obsidian Plugins/imgSrc/git error.png",
     "Obsidian Plugins/Obsidian Git.md",
     "Key Concepts/Java",
-    "Key Concepts/Java/Get Inputs.md",
     "Obsidian Plugins/imgSrc/projects created.png",
     "Obsidian Plugins/imgSrc/automatic.png",
     "Obsidian Plugins/imgSrc/execute code.png",
