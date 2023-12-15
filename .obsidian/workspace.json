@@ -8,10 +8,10 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c823d2787d692d2",
+            "id": "867bca8ca18f3bba",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "obsidian-projects",
               "state": {}
             }
           },
@@ -19,12 +19,15 @@
             "id": "7d2dc3d378c5cbc5",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Plugins/Projects.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,11 +152,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7d2dc3d378c5cbc5",
+  "active": "867bca8ca18f3bba",
   "lastOpenFiles": [
+    "Obsidian Plugins/Projects.md",
+    "Obsidian Plugins/imgSrc/projects create.png",
+    "Obsidian Plugins/imgSrc/Community plugins.png",
+    "Obsidian Plugins/imgSrc/gitignore.png",
     "Obsidian Plugins/Execute Code.md",
     "Obsidian Plugins/Excalidraw.md",
-    "Obsidian Plugins/Projects.md",
     "Obsidian Plugins/Remember Cursor Position.md",
     "Obsidian Plugins/Obsidian Git.md",
     "Obsidian Plugins/imgSrc/projects properties.png",
@@ -165,8 +171,6 @@
     "README.md",
     "Obsidian Plugins/imgSrc/automatic.png",
     "Obsidian Plugins/imgSrc/Obsidian Git.png",
-    "Obsidian Plugins/imgSrc/Community plugins.png",
-    "Obsidian Plugins/imgSrc/gitignore.png",
     "Obsidian Plugins/imgSrc/Git Repo.png",
     "Obsidian Plugins/imgSrc",
     "Obsidian Plugins"
