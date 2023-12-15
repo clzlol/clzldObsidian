@@ -5,6 +5,7 @@
     "tags": "tags",
     "done": "checkbox",
     "due": "date",
-    "urgent": "checkbox"
+    "urgent": "checkbox",
+    "kind": "text"
   }
 }

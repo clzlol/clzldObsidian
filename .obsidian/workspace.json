@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MarkDown.md",
+                "file": "Obsidian Plugins/Execute Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarkDown.md",
+                "file": "Obsidian Plugins/Execute Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarkDown.md",
+                "file": "Obsidian Plugins/Execute Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarkDown.md"
+                "file": "Obsidian Plugins/Execute Code.md"
               }
             }
           }
@@ -148,12 +148,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3e61f6539553b3f6",
+  "active": "867bca8ca18f3bba",
   "lastOpenFiles": [
-    "Untitled",
+    "Key Concepts/MarkDown.md",
     "Obsidian Plugins/Execute Code.md",
     "Obsidian Plugins/Excalidraw.md",
-    "MarkDown.md",
+    "Key Concepts",
     "Obsidian Plugins/Obsidian Git.md",
     "Obsidian Plugins/Projects.md",
     "Obsidian Plugins/Remember Cursor Position.md",
