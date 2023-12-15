@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Untitled.md",
+                "file": "Obsidian/Execute Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Untitled.md",
+                "file": "Obsidian/Execute Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Untitled.md",
+                "file": "Obsidian/Execute Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Untitled.md"
+                "file": "Obsidian/Execute Code.md"
               }
             }
           }
@@ -159,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e61f6539553b3f6",
+  "active": "dc6a618a8b11cbe1",
   "lastOpenFiles": [
-    "Obsidian/Untitled.md",
+    "Obsidian/Remember Cursor Position.md",
     "Obsidian/Obsidian Git.md",
+    "Obsidian/Execute Code.md",
+    "Untitled.md",
     "README.md",
     "Obsidian/imgSrc/automatic.png",
     "Obsidian/imgSrc/Obsidian Git.png",
