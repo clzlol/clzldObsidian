@@ -6,7 +6,7 @@ urgent: false
 tags:
   - note
 ---
-----
+***
 
 Obsidian Git이라는 커뮤니티 플러그인을 써서 유료로 사용하는 Obsidian Sync 대신 Git에 올려 사용할 수 있도록 설정하였다.
 
@@ -42,5 +42,5 @@ git push -u origin main #main branch로 푸시
 - Vault push interval (minutes): 설정된 분 간격으로 push 한다.
 - Auto pull interval (minutes): 설정된 분 간격으로 pull 한다.
 
-----
+***
 여기까지 하고 나면 최소한의 설정이 끝난다. Obsidian이 Git에 자동으로 commit, push, pull 되면서 다양한 로컬 기기에서 사용할 수 있을 것이라고 생각한다.
