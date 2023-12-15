@@ -11,8 +11,12 @@
             "id": "d7684db7ee9950ad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Plugins/Obsidian Git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian Plugins/Obsidian Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian Plugins/Obsidian Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian Plugins/Obsidian Git.md"
+              }
             }
           }
         ]
@@ -142,6 +150,8 @@
   },
   "active": "d7684db7ee9950ad",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-12-15 23.46.33.excalidraw.md",
+    "Excalidraw",
     "Key Concepts/MarkDown.md",
     "2023-12-15.md",
     "Obsidian Plugins/Dataview.md",
@@ -162,7 +172,6 @@
     "2023-12-01.md",
     "Obsidian/Untitled.md",
     "Excalidraw/Drawing 2023-12-15 21.38.13.excalidraw.md",
-    "Excalidraw",
     "Obsidian Plugins/imgSrc/execute code.png",
     "README.md",
     "Obsidian Plugins/imgSrc/automatic.png",
