@@ -44,7 +44,7 @@ git push -u origin main #main branch로 푸시
 
 ## IOS 연동
 
-아니 아이패드는 되네..?
+아니 아이패드는 되네..? 근데 풀은 왜 또 안댐..
 
 ***
 여기까지 하고 나면 최소한의 설정이 끝난다. Obsidian이 Git에 자동으로 commit, push, pull 되면서 다양한 로컬 기기에서 사용할 수 있을 것이라고 생각한다.
