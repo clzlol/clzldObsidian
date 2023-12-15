@@ -11,22 +11,15 @@
             "id": "907a3a48029f5567",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c9392ea676d9d253",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian/Excalidraw.md"
+                "file": "Obsidian/Projects.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Excalidraw.md",
+                "file": "Obsidian/Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Excalidraw.md",
+                "file": "Obsidian/Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Excalidraw.md"
+                "file": "Obsidian/Projects.md"
               }
             }
           }
@@ -154,15 +147,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e61f6539553b3f6",
+  "active": "907a3a48029f5567",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-15 21.38.13.excalidraw.md",
-    "Obsidian/Excalidraw.md",
-    "Excalidraw",
     "Obsidian/Obsidian Git.md",
+    "Obsidian/Projects.md",
     "Obsidian/Execute Code.md",
-    "Obsidian/imgSrc/execute code.png",
     "Obsidian/Remember Cursor Position.md",
+    "Obsidian/Excalidraw.md",
+    "Excalidraw/Drawing 2023-12-15 21.38.13.excalidraw.md",
+    "Excalidraw",
+    "Obsidian/imgSrc/execute code.png",
     "Untitled.md",
     "README.md",
     "Obsidian/imgSrc/automatic.png",
