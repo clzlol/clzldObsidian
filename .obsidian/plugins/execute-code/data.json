@@ -1,9 +1,9 @@
 {
-  "lastOpenLanguageTab": "js",
+  "lastOpenLanguageTab": "python",
   "timeout": 10000,
   "allowInput": true,
   "wslMode": false,
-  "nodePath": "C:/Program Files/nodejs",
+  "nodePath": "node",
   "nodeArgs": "",
   "jsFileExtension": "js",
   "jsInject": "",
