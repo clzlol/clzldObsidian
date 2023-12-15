@@ -41,7 +41,10 @@ git push -u origin main #main branch로 푸시
 - Vault commit interval (minutes): 설정된 분 간격으로 commit 한다.
 - Vault push interval (minutes): 설정된 분 간격으로 push 한다.
 - Auto pull interval (minutes): 설정된 분 간격으로 pull 한다.
-외않됨..
+
+## IOS 연동
+
+아니 아이패드는 되네..?
 
 ***
 여기까지 하고 나면 최소한의 설정이 끝난다. Obsidian이 Git에 자동으로 commit, push, pull 되면서 다양한 로컬 기기에서 사용할 수 있을 것이라고 생각한다.
