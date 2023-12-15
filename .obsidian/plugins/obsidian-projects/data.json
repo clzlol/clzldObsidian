@@ -10,7 +10,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "Obsidian",
+          "path": "Obsidian Plugins",
           "recursive": false
         }
       },

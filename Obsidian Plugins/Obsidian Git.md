@@ -3,6 +3,8 @@ due: 2023-12-15
 kind: obsidian plugin func
 status: Done
 urgent: false
+tags:
+  - note
 ---
 
 
