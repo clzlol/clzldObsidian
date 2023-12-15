@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Plugins/Obsidian Git.md",
+                "file": "Key Concepts/Java/Get Inputs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Plugins/Obsidian Git.md",
+                "file": "Key Concepts/Java/Get Inputs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Plugins/Obsidian Git.md",
+                "file": "Key Concepts/Java/Get Inputs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Plugins/Obsidian Git.md"
+                "file": "Key Concepts/Java/Get Inputs.md"
               }
             }
           }
@@ -150,6 +150,9 @@
   },
   "active": "d7684db7ee9950ad",
   "lastOpenFiles": [
+    "Obsidian Plugins/Obsidian Git.md",
+    "Key Concepts/Java/Get Inputs.md",
+    "Key Concepts/Java",
     "Excalidraw/Drawing 2023-12-15 23.46.33.excalidraw.md",
     "Excalidraw",
     "Key Concepts/MarkDown.md",
@@ -159,7 +162,6 @@
     "Obsidian Plugins/Projects.md",
     "Obsidian Plugins/Remember Cursor Position.md",
     "Key Concepts/Structured Query Language.md",
-    "Obsidian Plugins/Obsidian Git.md",
     "Obsidian Plugins/Execute Code.md",
     "Obsidian Plugins/Excalidraw.md",
     "Key Concepts",
