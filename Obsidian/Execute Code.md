@@ -18,6 +18,10 @@ print("hello")
 
 ```
 
+```run-javascript
+console.log("hello")
+```
+
 ## Execute Code 설정
 
 대신 이를 제대로 활용하려면 Execute Code 플러그인의 설정에서 각 프로그래밍 언어의 경로를 추가해야 한다.

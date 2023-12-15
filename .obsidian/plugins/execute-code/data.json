@@ -1,9 +1,9 @@
 {
-  "lastOpenLanguageTab": "java",
+  "lastOpenLanguageTab": "js",
   "timeout": 10000,
   "allowInput": true,
   "wslMode": false,
-  "nodePath": "node",
+  "nodePath": "C:/Program Files/nodejs/node.exe",
   "nodeArgs": "",
   "jsFileExtension": "js",
   "jsInject": "",
