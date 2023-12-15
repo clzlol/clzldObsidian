@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7684db7ee9950ad",
+            "id": "9243e4a870eb92d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Obsidian Plugins/Obsidian Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "Obsidian Plugins/Obsidian Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "Obsidian Plugins/Obsidian Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "Obsidian Plugins/Obsidian Git.md"
               }
             }
           }
@@ -148,17 +148,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7684db7ee9950ad",
+  "active": "9243e4a870eb92d6",
   "lastOpenFiles": [
+    "Obsidian Plugins/Dataview.md",
+    "Key Concepts/프로토콜.md",
+    "Key Concepts/http.md",
     "Obsidian Plugins/Obsidian Git.md",
-    "Git.md",
+    "Key Concepts/ssh.md",
+    "Key Concepts/https.md",
+    "Key Concepts/Git.md",
     "Key Concepts/Java/Get Inputs.md",
     "Key Concepts/Java",
     "Excalidraw/Drawing 2023-12-15 23.46.33.excalidraw.md",
     "Excalidraw",
     "Key Concepts/MarkDown.md",
     "2023-12-15.md",
-    "Obsidian Plugins/Dataview.md",
     "Key Concepts/Query.md",
     "Obsidian Plugins/Projects.md",
     "Obsidian Plugins/Remember Cursor Position.md",
