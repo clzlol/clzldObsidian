@@ -9,18 +9,25 @@ Obsidian도 [[MarkDown]]을 지원하는데, 코드 블록을 작성했을 때 �
 print("hello")
 ```
 
+```javascript
+console.log(1+1)
+```
+
 ## Execute Code를 사용하는 코드 블록
 
 Execute Code를 사용하려면, ` ```run-(언어) ` 이런 식으로 사용하는 언어 앞에 `run-`을 붙여주면 된다. 
+
+python
 ```run-python
 
 print("hello")
 
 ```
 
+javascript
 ```run-javascript
 
-1+1
+console.log(1+1)
 ```
 
 ## Execute Code 설정
@@ -30,4 +37,4 @@ print("hello")
 
 ---
 
-나중에 오류 기록 같은 거 할 때 도움 좀 될 거 같다는 생각이 든다.
+python은 별다른 설정 없이도 실행이 되는 거 같은데, javascript는 제대로 출력이 나오지 않는 거 같다. 말고도 다른 언어도 문제가 있을 거 같으니 나중에 고쳐봐야겠다.
