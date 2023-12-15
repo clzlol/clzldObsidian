@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Plugins/Obsidian Git.md",
+                "file": "Errors/Git/gitignore 관련 에러들.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Plugins/Obsidian Git.md",
+                "file": "Errors/Git/gitignore 관련 에러들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Plugins/Obsidian Git.md",
+                "file": "Errors/Git/gitignore 관련 에러들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Plugins/Obsidian Git.md"
+                "file": "Errors/Git/gitignore 관련 에러들.md"
               }
             }
           }
@@ -150,11 +150,15 @@
   },
   "active": "9243e4a870eb92d6",
   "lastOpenFiles": [
+    "Errors/Git",
+    "Untitled.md",
+    "Errors/Git/gitignore 관련 에러들.md",
+    "Obsidian Plugins/Obsidian Git.md",
+    "Errors",
     "Obsidian Plugins/imgSrc/git error.png",
     "Obsidian Plugins/Dataview.md",
     "Key Concepts/프로토콜.md",
     "Key Concepts/http.md",
-    "Obsidian Plugins/Obsidian Git.md",
     "Key Concepts/ssh.md",
     "Key Concepts/https.md",
     "Key Concepts/Git.md",
@@ -184,7 +188,6 @@
     "README.md",
     "Obsidian Plugins/imgSrc/automatic.png",
     "Obsidian Plugins/imgSrc/Obsidian Git.png",
-    "Obsidian Plugins/imgSrc/Git Repo.png",
     "Obsidian Plugins/imgSrc",
     "Obsidian Plugins"
   ]
