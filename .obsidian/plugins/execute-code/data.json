@@ -3,7 +3,7 @@
   "timeout": 10000,
   "allowInput": true,
   "wslMode": false,
-  "nodePath": "C:/Program Files/nodejs/node.exe",
+  "nodePath": "node",
   "nodeArgs": "",
   "jsFileExtension": "js",
   "jsInject": "",
