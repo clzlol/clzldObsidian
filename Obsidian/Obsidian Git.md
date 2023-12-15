@@ -11,3 +11,8 @@ Settings > Community plugins에서 Browse로 들어가 Obsidian Git을 설치한
 ![[Community plugins.png]]
 ![[Obsidian Git.png]]
 
+### Git 연결하기
+Obsidian Vault 파일 내에서 Git Bash를 켜고 다음 명령어를 입력한다.
+```git
+
+```
