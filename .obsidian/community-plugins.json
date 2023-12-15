@@ -1,9 +1,8 @@
 [
+  "obsidian-projects",
+  "obsidian-icon-folder",
+  "remember-cursor-position",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "remember-cursor-position",
-  "obsidian-projects",
-  "obsidian-git",
-  "obsidian-icon-folder",
   "execute-code"
 ]
