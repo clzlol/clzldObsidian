@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "43f3b5cda29933fc",
+        "id": "b2293ccdd30a3e8a",
         "type": "tabs",
         "children": [
           {
-            "id": "907a3a48029f5567",
+            "id": "d183f9f52663bb8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Projects.md",
+                "file": "Obsidian Plugins/Projects.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "670c6e564d909435",
+            "id": "efa6a813a6a1def7",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
@@ -153,25 +153,26 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "670c6e564d909435",
+  "active": "3e61f6539553b3f6",
   "lastOpenFiles": [
-    "Obsidian/Projects.md",
+    "Obsidian Plugins/Projects.md",
+    "Obsidian Plugins/Excalidraw.md",
+    "Obsidian Plugins/Execute Code.md",
+    "Obsidian Plugins/Remember Cursor Position.md",
+    "Obsidian Plugins/Obsidian Git.md",
+    "Obsidian Plugins/imgSrc/projects properties.png",
     "2023-12-01.md",
     "Obsidian/Untitled.md",
-    "Obsidian/Obsidian Git.md",
-    "Obsidian/Execute Code.md",
-    "Obsidian/Remember Cursor Position.md",
-    "Obsidian/Excalidraw.md",
     "Excalidraw/Drawing 2023-12-15 21.38.13.excalidraw.md",
     "Excalidraw",
-    "Obsidian/imgSrc/execute code.png",
+    "Obsidian Plugins/imgSrc/execute code.png",
     "README.md",
-    "Obsidian/imgSrc/automatic.png",
-    "Obsidian/imgSrc/Obsidian Git.png",
-    "Obsidian/imgSrc/Community plugins.png",
-    "Obsidian/imgSrc/gitignore.png",
-    "Obsidian/imgSrc/Git Repo.png",
-    "Obsidian/imgSrc",
-    "Obsidian"
+    "Obsidian Plugins/imgSrc/automatic.png",
+    "Obsidian Plugins/imgSrc/Obsidian Git.png",
+    "Obsidian Plugins/imgSrc/Community plugins.png",
+    "Obsidian Plugins/imgSrc/gitignore.png",
+    "Obsidian Plugins/imgSrc/Git Repo.png",
+    "Obsidian Plugins/imgSrc",
+    "Obsidian Plugins"
   ]
 }

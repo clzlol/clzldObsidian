@@ -1,6 +1,41 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Obsidian",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "3674ffbc-c203-4dd1-95e6-9f17ddf9a2ec",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "d8667ce3-8347-4709-a615-932436672eeb",
+      "name": "Obsidian Plugin Functions"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,

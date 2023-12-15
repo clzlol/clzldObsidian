@@ -1,3 +1,10 @@
+---
+due: 2023-12-15
+kind: obsidian plugin func
+status: Done
+urgent: false
+---
+
 
 Obsidian Git이라는 커뮤니티 플러그인을 써서 유료로 사용하는 Obsidian Sync 대신 Git에 올려 사용할 수 있도록 설정하였다.
 
