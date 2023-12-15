@@ -6,10 +6,9 @@ urgent: true
 tags:
   - note
 ---
+----
 
 Obsidian도 [[MarkDown]]을 지원하는데, 코드 블록을 작성했을 때 실행까지 시켜주는 플러그인이 있다.
-
-----
 
 ## 일반적인 코드 블록
 

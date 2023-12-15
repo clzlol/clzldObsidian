@@ -6,11 +6,9 @@ urgent: false
 tags:
   - note
 ---
-
+----
 
 Obsidian Git이라는 커뮤니티 플러그인을 써서 유료로 사용하는 Obsidian Sync 대신 Git에 올려 사용할 수 있도록 설정하였다.
-
-----
 
 ## Git Repository 생성
 
