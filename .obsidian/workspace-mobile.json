@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Plugins/Obsidian Git.md",
+                "file": "Key Concepts/Java/Get Inputs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Plugins/Obsidian Git.md",
+            "file": "Key Concepts/Java/Get Inputs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Obsidian Plugins/Obsidian Git.md",
+            "file": "Key Concepts/Java/Get Inputs.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Obsidian Plugins/Obsidian Git.md"
+            "file": "Key Concepts/Java/Get Inputs.md"
           }
         }
       }
@@ -123,6 +123,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -131,8 +133,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28e10ec9cdb2eddc",
+  "active": "00de9ac5a7bee8ab",
   "lastOpenFiles": [
+    "Obsidian Plugins/Obsidian Git.md",
     "Key Concepts/Java",
     "Key Concepts/Java/Get Inputs.md",
     "Obsidian Plugins/imgSrc/projects created.png",
@@ -147,7 +150,6 @@
     "Obsidian Plugins/imgSrc/Community plugins.png",
     "Obsidian Plugins/Projects.md",
     "Obsidian Plugins/Remember Cursor Position.md",
-    "Obsidian Plugins/Obsidian Git.md",
     "Obsidian Plugins/Dataview.md",
     "Obsidian Plugins/imgSrc",
     "Obsidian Plugins/Excalidraw.md",
