@@ -45,7 +45,7 @@ git push -u origin main #main branch로 푸시
 ## IOS 연동
 
 일단 Git을 모바일, 또는 패드 환경에 clone 해야 하는데, 이게 또 Working Copy라는 앱을 써서 해야 하더라.. 이것 때문에 3 만원 들었다.... 그래도 나중에 쓸 일 있을 거라는 생각으로, 그리고 Obsidian을 제대로 쓰겠다는 집념 하나로 결제했다. IOS 연동은 [이 링크](https://clarit7.github.io/obsidian_sync_setting/)를 보고 따라서 진행했다.
-이 방법을 그대로 따라했지만 잘 작동하지 않아서, 혹시나 해서 git clone을 할 때 **프로토콜을  https가 아니라 ssh**를 사용해보았는데, IOS에서 권한이 없어 push가 안된다는 오류는 사라졌다.
+이 방법을 그대로 따라했지만 잘 작동하지 않아서, 혹시나 해서 git clone을 할 때 **프로토콜을  https가 아니라 ssh**를 사용해보았는데, IOS에서 권한이 없어 push가 안된다는 오류는 사라졌다. 그 후로는 다 그대로 하면 된다. 
 
 ***
 여기까지 하고 나면 최소한의 설정이 끝난다. Obsidian이 Git에 자동으로 commit, push, pull 되면서 다양한 로컬 기기에서 사용할 수 있을 것이라고 생각한다.
