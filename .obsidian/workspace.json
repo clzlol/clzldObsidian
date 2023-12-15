@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6751a4fcda6a0084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Obsidian Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian/Obsidian Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian/Obsidian Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Obsidian/Obsidian Git.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e218bad8cec15f8d",
+  "active": "3e61f6539553b3f6",
   "lastOpenFiles": [
-    "README.md"
+    "Obsidian/imgSrc",
+    "README.md",
+    "Obsidian/Obsidian Git.md",
+    "Obsidian"
   ]
 }
