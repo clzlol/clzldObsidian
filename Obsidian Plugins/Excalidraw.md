@@ -9,7 +9,7 @@ tags: [excalidraw]
 
 # Text Elements
 Excalidraw는 캔버스 같은 건데 다루려면 공부 해야 할 거 같다.
-And it only supports english. ^RytB97V0
+And it only supports english. 그래서 폰트를 새로 넣었다. ^RytB97V0
 
 It can be used like this. ^E8Y2yPq3
 
@@ -25,8 +25,8 @@ It can be used like this. ^E8Y2yPq3
 	"elements": [
 		{
 			"type": "text",
-			"version": 155,
-			"versionNonce": 1947417707,
+			"version": 193,
+			"versionNonce": 195109451,
 			"isDeleted": false,
 			"id": "RytB97V0",
 			"fillStyle": "solid",
@@ -46,17 +46,17 @@ It can be used like this. ^E8Y2yPq3
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1702712396618,
+			"updated": 1702712433740,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 4,
-			"text": "Excalidraw는 캔버스 같은 건데 다루려면 공부 해야 할 거 같다.\nAnd it only supports english.",
-			"rawText": "Excalidraw는 캔버스 같은 건데 다루려면 공부 해야 할 거 같다.\nAnd it only supports english.",
+			"text": "Excalidraw는 캔버스 같은 건데 다루려면 공부 해야 할 거 같다.\nAnd it only supports english. 그래서 폰트를 새로 넣었다.",
+			"rawText": "Excalidraw는 캔버스 같은 건데 다루려면 공부 해야 할 거 같다.\nAnd it only supports english. 그래서 폰트를 새로 넣었다.",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Excalidraw는 캔버스 같은 건데 다루려면 공부 해야 할 거 같다.\nAnd it only supports english.",
+			"originalText": "Excalidraw는 캔버스 같은 건데 다루려면 공부 해야 할 거 같다.\nAnd it only supports english. 그래서 폰트를 새로 넣었다.",
 			"lineHeight": 1.2,
 			"baseline": 42
 		},
@@ -253,41 +253,41 @@ It can be used like this. ^E8Y2yPq3
 			"baseline": 18
 		},
 		{
-			"id": "0mviqK4n",
 			"type": "text",
-			"x": 42.15997314453125,
-			"y": -82.5454847547743,
-			"width": 151.33993530273438,
-			"height": 24,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 75,
+			"versionNonce": 1403071883,
+			"isDeleted": false,
+			"id": "0mviqK4n",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 42.15997314453125,
+			"y": -82.5454847547743,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 151.33993530273438,
+			"height": 24,
+			"seed": 1544133291,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1544133291,
-			"version": 75,
-			"versionNonce": 1403071883,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702712421455,
 			"link": null,
 			"locked": false,
-			"text": "왜 적용 안되나 어 된다",
-			"rawText": "왜 적용 안되나 어 된다",
 			"fontSize": 20,
 			"fontFamily": 4,
+			"text": "왜 적용 안되나 어 된다",
+			"rawText": "왜 적용 안되나 어 된다",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 18,
 			"containerId": null,
 			"originalText": "왜 적용 안되나 어 된다",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 18
 		}
 	],
 	"appState": {
@@ -305,8 +305,8 @@ It can be used like this. ^E8Y2yPq3
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 287.7400207519531,
-		"scrollY": 283.18298551771375,
+		"scrollX": 315.4999559190538,
+		"scrollY": 283.68298551771375,
 		"zoom": {
 			"value": 2
 		},
