@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Plugins/Execute Code.md",
+                "file": "Obsidian Plugins/MAKE.Md.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Plugins/Execute Code.md",
+                "file": "Obsidian Plugins/MAKE.Md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Plugins/Execute Code.md",
+                "file": "Obsidian Plugins/MAKE.Md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Plugins/Execute Code.md"
+                "file": "Obsidian Plugins/MAKE.Md.md"
               }
             }
           }
@@ -159,6 +159,7 @@
   },
   "active": "859dd32ce7b12f43",
   "lastOpenFiles": [
+    "Obsidian Plugins/Execute Code.md",
     "Obsidian Plugins/MAKE.Md.md",
     "Obsidian Plugins/Remember Cursor Position.md",
     "Errors/Git/gitignore 관련 에러들.md",
@@ -184,7 +185,6 @@
     "Key Concepts/Query.md",
     "Obsidian Plugins/Projects.md",
     "Key Concepts/Structured Query Language.md",
-    "Obsidian Plugins/Execute Code.md",
     "Obsidian Plugins/Excalidraw.md",
     "Key Concepts",
     "Obsidian Plugins/imgSrc/projects add view.png",
