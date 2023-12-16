@@ -96,8 +96,8 @@ It can be used like this. ^E8Y2yPq3
 		},
 		{
 			"type": "rectangle",
-			"version": 93,
-			"versionNonce": 850940470,
+			"version": 166,
+			"versionNonce": 1516411493,
 			"isDeleted": false,
 			"id": "zBSAoOFZVlf6hgV_u4iM3",
 			"fillStyle": "solid",
@@ -106,8 +106,8 @@ It can be used like this. ^E8Y2yPq3
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -130.84437730577247,
-			"y": -43.8875274658202,
+			"x": 184.22533740250896,
+			"y": 66.35985374102142,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 198.2222154405382,
@@ -119,7 +119,7 @@ It can be used like this. ^E8Y2yPq3
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1702644133414,
+			"updated": 1702712455692,
 			"link": null,
 			"locked": false
 		},
@@ -305,10 +305,10 @@ It can be used like this. ^E8Y2yPq3
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 315.4999559190538,
-		"scrollY": 283.68298551771375,
+		"scrollX": 426.9649181124099,
+		"scrollY": 279.7976946902839,
 		"zoom": {
-			"value": 2
+			"value": 1.4803073816405858
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
