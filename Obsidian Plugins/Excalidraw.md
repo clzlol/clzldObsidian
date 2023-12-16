@@ -13,7 +13,7 @@ And it only supports english. ^RytB97V0
 
 It can be used like this. ^E8Y2yPq3
 
-왜 적용 어 된다 돼지 ^0mviqK4n
+왜 적용 안되나 어 된다 ^0mviqK4n
 
 %%
 # Drawing
@@ -257,7 +257,7 @@ It can be used like this. ^E8Y2yPq3
 			"type": "text",
 			"x": 42.15997314453125,
 			"y": -82.5454847547743,
-			"width": 137.75994873046875,
+			"width": 151.33993530273438,
 			"height": 24,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -271,22 +271,22 @@ It can be used like this. ^E8Y2yPq3
 			"frameId": null,
 			"roundness": null,
 			"seed": 1544133291,
-			"version": 43,
-			"versionNonce": 2081099173,
+			"version": 75,
+			"versionNonce": 1403071883,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1702712393156,
+			"updated": 1702712421455,
 			"link": null,
 			"locked": false,
-			"text": "왜 적용 어 된다 돼지",
-			"rawText": "왜 적용 어 된다 돼지",
+			"text": "왜 적용 안되나 어 된다",
+			"rawText": "왜 적용 안되나 어 된다",
 			"fontSize": 20,
 			"fontFamily": 4,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "왜 적용 어 된다 돼지",
+			"originalText": "왜 적용 안되나 어 된다",
 			"lineHeight": 1.2
 		}
 	],
