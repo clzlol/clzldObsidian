@@ -11,9 +11,11 @@
             "id": "066e1c7c59c5dde6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Plugins/Excalidraw.md"
+                "file": "Obsidian Plugins/MAKE.Md.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Plugins/Excalidraw.md",
+                "file": "Obsidian Plugins/MAKE.Md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Plugins/Excalidraw.md",
+                "file": "Obsidian Plugins/MAKE.Md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Plugins/Excalidraw.md"
+                "file": "Obsidian Plugins/MAKE.Md.md"
               }
             }
           }
@@ -157,6 +159,7 @@
   },
   "active": "066e1c7c59c5dde6",
   "lastOpenFiles": [
+    "Obsidian Plugins/Execute Code.md",
     "Obsidian Plugins/Excalidraw.md",
     "Obsidian Plugins/Emoji Toolbar.md",
     "Fonts/나눔손글씨 다행체.ttf",
@@ -164,7 +167,6 @@
     "새 폴더",
     "Obsidian Plugins/Dataview.md",
     "Obsidian Plugins/MAKE.Md.md",
-    "Obsidian Plugins/Execute Code.md",
     "Obsidian Plugins/Remember Cursor Position.md",
     "Errors/Git/gitignore 관련 에러들.md",
     "Spaces/Home",
