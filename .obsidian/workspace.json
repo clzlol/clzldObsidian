@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "753c27f5bea2679c",
+        "id": "671afe4e6c56b76d",
         "type": "tabs",
         "children": [
           {
-            "id": "9243e4a870eb92d6",
+            "id": "859dd32ce7b12f43",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home"
+                "file": "Obsidian Plugins/Execute Code.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -30,6 +32,14 @@
         "id": "2148e7ff28c6bbc7",
         "type": "tabs",
         "children": [
+          {
+            "id": "c2f0432d631858b9",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
           {
             "id": "3e61f6539553b3f6",
             "type": "leaf",
@@ -62,17 +72,9 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "c2f0432d631858b9",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian Plugins/Execute Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian Plugins/Execute Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian Plugins/Execute Code.md"
+              }
             }
           }
         ]
@@ -151,8 +157,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9243e4a870eb92d6",
+  "active": "859dd32ce7b12f43",
   "lastOpenFiles": [
+    "Obsidian Plugins/MAKE.Md.md",
+    "Obsidian Plugins/Remember Cursor Position.md",
     "Errors/Git/gitignore 관련 에러들.md",
     "Spaces/Home",
     "Spaces",
@@ -175,7 +183,6 @@
     "2023-12-15.md",
     "Key Concepts/Query.md",
     "Obsidian Plugins/Projects.md",
-    "Obsidian Plugins/Remember Cursor Position.md",
     "Key Concepts/Structured Query Language.md",
     "Obsidian Plugins/Execute Code.md",
     "Obsidian Plugins/Excalidraw.md",
