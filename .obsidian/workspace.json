@@ -64,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "c2f0432d631858b9",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -150,9 +159,11 @@
   },
   "active": "9243e4a870eb92d6",
   "lastOpenFiles": [
+    "Errors/Git/gitignore 관련 에러들.md",
+    "Spaces/Home",
+    "Spaces",
     "Errors/Git",
     "Untitled.md",
-    "Errors/Git/gitignore 관련 에러들.md",
     "Obsidian Plugins/Obsidian Git.md",
     "Errors",
     "Obsidian Plugins/imgSrc/git error.png",
