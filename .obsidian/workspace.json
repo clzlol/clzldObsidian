@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Plugins/MAKE.Md.md",
+                "file": "Obsidian Plugins/Emoji Toolbar.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Plugins/MAKE.Md.md",
+                "file": "Obsidian Plugins/Emoji Toolbar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Plugins/MAKE.Md.md",
+                "file": "Obsidian Plugins/Emoji Toolbar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Plugins/MAKE.Md.md"
+                "file": "Obsidian Plugins/Emoji Toolbar.md"
               }
             }
           }
@@ -159,8 +159,10 @@
   },
   "active": "859dd32ce7b12f43",
   "lastOpenFiles": [
-    "Obsidian Plugins/Execute Code.md",
+    "Obsidian Plugins/Dataview.md",
+    "Obsidian Plugins/Emoji Toolbar.md",
     "Obsidian Plugins/MAKE.Md.md",
+    "Obsidian Plugins/Execute Code.md",
     "Obsidian Plugins/Remember Cursor Position.md",
     "Errors/Git/gitignore 관련 에러들.md",
     "Spaces/Home",
@@ -170,7 +172,6 @@
     "Obsidian Plugins/Obsidian Git.md",
     "Errors",
     "Obsidian Plugins/imgSrc/git error.png",
-    "Obsidian Plugins/Dataview.md",
     "Key Concepts/프로토콜.md",
     "Key Concepts/http.md",
     "Key Concepts/ssh.md",
