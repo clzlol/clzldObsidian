@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Plugins/MAKE.Md.md",
+                "file": "Obsidian Plugins/Obsidian Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Plugins/MAKE.Md.md",
+                "file": "Obsidian Plugins/Obsidian Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Plugins/MAKE.Md.md",
+                "file": "Obsidian Plugins/Obsidian Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Plugins/MAKE.Md.md"
+                "file": "Obsidian Plugins/Obsidian Git.md"
               }
             }
           }
@@ -159,6 +159,10 @@
   },
   "active": "066e1c7c59c5dde6",
   "lastOpenFiles": [
+    "Obsidian Plugins/MAKE.Md.md",
+    "Obsidian Plugins/Remember Cursor Position.md",
+    "Obsidian Plugins/Projects.md",
+    "Obsidian Plugins/Obsidian Git.md",
     "Obsidian Plugins/Execute Code.md",
     "Obsidian Plugins/Excalidraw.md",
     "Obsidian Plugins/Emoji Toolbar.md",
@@ -166,14 +170,11 @@
     "Fonts",
     "새 폴더",
     "Obsidian Plugins/Dataview.md",
-    "Obsidian Plugins/MAKE.Md.md",
-    "Obsidian Plugins/Remember Cursor Position.md",
     "Errors/Git/gitignore 관련 에러들.md",
     "Spaces/Home",
     "Spaces",
     "Errors/Git",
     "Untitled.md",
-    "Obsidian Plugins/Obsidian Git.md",
     "Errors",
     "Obsidian Plugins/imgSrc/git error.png",
     "Key Concepts/프로토콜.md",
@@ -188,7 +189,6 @@
     "Key Concepts/MarkDown.md",
     "2023-12-15.md",
     "Key Concepts/Query.md",
-    "Obsidian Plugins/Projects.md",
     "Key Concepts/Structured Query Language.md",
     "Key Concepts",
     "Obsidian Plugins/imgSrc/projects add view.png",

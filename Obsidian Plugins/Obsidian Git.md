@@ -51,6 +51,13 @@ git push -u origin main #main branch로 푸시
 ![[git error.png]]
 이거 어차피 뜨는 에러인 거 같아서 gitignore를 최대한 줄여봤는데 작동한다. 그래도 작동하면 workspace.json만 써두기로 하자. 이제 세팅은 끝. 저 에러는 추후에 해결하기로.
 
++2023-12-16
+깃 자동 업데이트를 너무 많이 해서 5분 간격으로 늘리고 hotkey를 지정했다
 
+alt + s: 스테이지 커밋
+alt + c: 커밋
+alt + p: 푸시
+
+ctrl + alt + p: 풀
 ***
 여기까지 하고 나면 최소한의 설정이 끝난다. Obsidian이 Git에 자동으로 commit, push, pull 되면서 다양한 로컬 기기에서 사용할 수 있을 것이라고 생각한다.
