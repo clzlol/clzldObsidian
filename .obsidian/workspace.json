@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6dd757da0c7399c7",
+        "id": "41e30a5685b7efae",
         "type": "tabs",
         "children": [
           {
-            "id": "066e1c7c59c5dde6",
+            "id": "2777d17da3e36e3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Plugins/Obsidian Git.md",
+                "file": "Key Concepts/Java/Get Inputs.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,14 +32,6 @@
         "id": "2148e7ff28c6bbc7",
         "type": "tabs",
         "children": [
-          {
-            "id": "c2f0432d631858b9",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
           {
             "id": "3e61f6539553b3f6",
             "type": "leaf",
@@ -72,9 +64,16 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "7d9af6694f95a076",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Plugins/Obsidian Git.md",
+                "file": "Key Concepts/Java/Get Inputs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Plugins/Obsidian Git.md",
+                "file": "Key Concepts/Java/Get Inputs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Plugins/Obsidian Git.md"
+                "file": "Key Concepts/Java/Get Inputs.md"
               }
             }
           }
@@ -157,19 +156,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "066e1c7c59c5dde6",
+  "active": "3e61f6539553b3f6",
   "lastOpenFiles": [
-    "Obsidian Plugins/MAKE.Md.md",
-    "Obsidian Plugins/Remember Cursor Position.md",
-    "Obsidian Plugins/Projects.md",
-    "Obsidian Plugins/Obsidian Git.md",
+    "Images",
     "Obsidian Plugins/Execute Code.md",
-    "Obsidian Plugins/Excalidraw.md",
-    "Obsidian Plugins/Emoji Toolbar.md",
-    "Fonts/나눔손글씨 다행체.ttf",
-    "Fonts",
-    "새 폴더",
     "Obsidian Plugins/Dataview.md",
+    "Key Concepts/Java/Get Inputs.md",
+    "Key Concepts/imgSrc/BufferedReader vs Scanner.png",
+    "Key Concepts/MarkDown.md",
+    "Key Concepts/http.md",
+    "Key Concepts/Git.md",
+    "Key Concepts/imgSrc",
+    "Obsidian Plugins/Emoji Toolbar.md",
+    "Obsidian Plugins/Excalidraw.md",
+    "Obsidian Plugins/MAKE.Md.md",
+    "Obsidian Plugins/Obsidian Git.md",
+    "Obsidian Plugins/Projects.md",
+    "Obsidian Plugins/Remember Cursor Position.md",
+    "Excalidraw/Drawing 2023-12-18 17.46.43.excalidraw.md",
+    "Excalidraw",
+    "Obsidian Plugins/Fonts/나눔손글씨 다행체.ttf",
+    "Obsidian Plugins/Fonts",
+    "새 폴더",
     "Errors/Git/gitignore 관련 에러들.md",
     "Spaces/Home",
     "Spaces",
@@ -178,19 +186,13 @@
     "Errors",
     "Obsidian Plugins/imgSrc/git error.png",
     "Key Concepts/프로토콜.md",
-    "Key Concepts/http.md",
     "Key Concepts/ssh.md",
     "Key Concepts/https.md",
-    "Key Concepts/Git.md",
-    "Key Concepts/Java/Get Inputs.md",
     "Key Concepts/Java",
     "Excalidraw/Drawing 2023-12-15 23.46.33.excalidraw.md",
-    "Excalidraw",
-    "Key Concepts/MarkDown.md",
     "2023-12-15.md",
     "Key Concepts/Query.md",
     "Key Concepts/Structured Query Language.md",
-    "Key Concepts",
     "Obsidian Plugins/imgSrc/projects add view.png",
     "Obsidian Plugins/imgSrc/projects created.png",
     "Obsidian Plugins/imgSrc/projects create.png",
@@ -201,8 +203,6 @@
     "Obsidian/Untitled.md",
     "Excalidraw/Drawing 2023-12-15 21.38.13.excalidraw.md",
     "Obsidian Plugins/imgSrc/execute code.png",
-    "README.md",
-    "Obsidian Plugins/imgSrc/automatic.png",
-    "Obsidian Plugins/imgSrc/Obsidian Git.png"
+    "Obsidian Plugins/imgSrc/automatic.png"
   ]
 }
