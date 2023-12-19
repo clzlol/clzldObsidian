@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key Concepts/Java/Get Inputs.md",
+                "file": "Key Concepts/Protocol/프로토콜.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ca46c173632a11c7",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key Concepts/Java/Get Inputs.md",
+                "file": "Key Concepts/Protocol/프로토콜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key Concepts/Java/Get Inputs.md",
+                "file": "Key Concepts/Protocol/프로토콜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key Concepts/Java/Get Inputs.md"
+                "file": "Key Concepts/Protocol/프로토콜.md"
               }
             }
           }
@@ -157,16 +156,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2777d17da3e36e3f",
+  "active": "3e61f6539553b3f6",
   "lastOpenFiles": [
+    "Key Concepts/Java/Get Inputs.md",
+    "Key Concepts/Protocol/프로토콜.md",
+    "Key Concepts/Protocol",
     "Images",
     "Obsidian Plugins/Execute Code.md",
     "Obsidian Plugins/Dataview.md",
-    "Key Concepts/Java/Get Inputs.md",
     "Key Concepts/imgSrc/BufferedReader vs Scanner.png",
     "Key Concepts/MarkDown.md",
-    "Key Concepts/http.md",
-    "Key Concepts/Git.md",
+    "Key Concepts/Protocol/http.md",
+    "Key Concepts/Protocol/Git.md",
     "Key Concepts/imgSrc",
     "Obsidian Plugins/Emoji Toolbar.md",
     "Obsidian Plugins/Excalidraw.md",
@@ -184,12 +185,9 @@
     "Spaces",
     "Errors/Git",
     "Untitled.md",
-    "Errors",
     "Obsidian Plugins/imgSrc/git error.png",
-    "Key Concepts/프로토콜.md",
-    "Key Concepts/ssh.md",
-    "Key Concepts/https.md",
-    "Key Concepts/Java",
+    "Key Concepts/Protocol/ssh.md",
+    "Key Concepts/Protocol/https.md",
     "Excalidraw/Drawing 2023-12-15 23.46.33.excalidraw.md",
     "2023-12-15.md",
     "Key Concepts/Query.md",
