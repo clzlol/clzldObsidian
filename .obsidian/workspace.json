@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key Concepts/Protocol/프로토콜.md",
+                "file": "Key Concepts/Java/Get Inputs.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key Concepts/Protocol/프로토콜.md",
+                "file": "Key Concepts/Java/Get Inputs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key Concepts/Protocol/프로토콜.md",
+                "file": "Key Concepts/Java/Get Inputs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key Concepts/Protocol/프로토콜.md"
+                "file": "Key Concepts/Java/Get Inputs.md"
               }
             }
           }
@@ -158,8 +158,10 @@
   },
   "active": "3e61f6539553b3f6",
   "lastOpenFiles": [
-    "Key Concepts/Java/Get Inputs.md",
     "Key Concepts/Protocol/프로토콜.md",
+    "Key Concepts/Query.md",
+    "Key Concepts/Structured Query Language.md",
+    "Key Concepts/Java/Get Inputs.md",
     "Key Concepts/Protocol",
     "Images",
     "Obsidian Plugins/Execute Code.md",
@@ -167,7 +169,7 @@
     "Key Concepts/imgSrc/BufferedReader vs Scanner.png",
     "Key Concepts/MarkDown.md",
     "Key Concepts/Protocol/http.md",
-    "Key Concepts/Protocol/Git.md",
+    "Key Concepts/Git.md",
     "Key Concepts/imgSrc",
     "Obsidian Plugins/Emoji Toolbar.md",
     "Obsidian Plugins/Excalidraw.md",
@@ -190,8 +192,6 @@
     "Key Concepts/Protocol/https.md",
     "Excalidraw/Drawing 2023-12-15 23.46.33.excalidraw.md",
     "2023-12-15.md",
-    "Key Concepts/Query.md",
-    "Key Concepts/Structured Query Language.md",
     "Obsidian Plugins/imgSrc/projects add view.png",
     "Obsidian Plugins/imgSrc/projects created.png",
     "Obsidian Plugins/imgSrc/projects create.png",
