@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Errors/Git/gitignore 관련 에러들.md",
+                "file": "Key Concepts/Java/Get Inputs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Errors/Git/gitignore 관련 에러들.md",
+            "file": "Key Concepts/Java/Get Inputs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Errors/Git/gitignore 관련 에러들.md",
+            "file": "Key Concepts/Java/Get Inputs.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Errors/Git/gitignore 관련 에러들.md"
+            "file": "Key Concepts/Java/Get Inputs.md"
           }
         }
       }
@@ -133,10 +133,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "c14245f036669357",
+  "active": "b290be637739517f",
   "lastOpenFiles": [
-    "Obsidian Plugins/Obsidian Git.md",
     "Errors/Git/gitignore 관련 에러들.md",
+    "Key Concepts/Git.md",
+    "Key Concepts/MVC.md",
+    "Obsidian Plugins/Obsidian Git.md",
     "Errors/Git",
     "Errors",
     "Obsidian Plugins/imgSrc/git error.png",
@@ -144,7 +146,6 @@
     "Key Concepts/ssh.md",
     "Key Concepts/프로토콜.md",
     "Key Concepts/https.md",
-    "Key Concepts/Git.md",
     "Key Concepts/http.md",
     "Key Concepts/Java/Get Inputs.md",
     "Key Concepts/Java",
