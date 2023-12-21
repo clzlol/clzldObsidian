@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key Concepts/Java/Get Inputs.md",
+                "file": "Key Concepts/MVC.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key Concepts/Java/Get Inputs.md",
+                "file": "Key Concepts/MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key Concepts/Java/Get Inputs.md",
+                "file": "Key Concepts/MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key Concepts/Java/Get Inputs.md"
+                "file": "Key Concepts/MVC.md"
               }
             }
           }
@@ -156,18 +156,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e61f6539553b3f6",
+  "active": "2777d17da3e36e3f",
   "lastOpenFiles": [
+    "Key Concepts/MarkDown.md",
+    "Key Concepts/MVC.md",
+    "Key Concepts/Java/Get Inputs.md",
     "Key Concepts/Protocol/프로토콜.md",
     "Key Concepts/Query.md",
     "Key Concepts/Structured Query Language.md",
-    "Key Concepts/Java/Get Inputs.md",
     "Key Concepts/Protocol",
     "Images",
     "Obsidian Plugins/Execute Code.md",
     "Obsidian Plugins/Dataview.md",
     "Key Concepts/imgSrc/BufferedReader vs Scanner.png",
-    "Key Concepts/MarkDown.md",
     "Key Concepts/Protocol/http.md",
     "Key Concepts/Git.md",
     "Key Concepts/imgSrc",
