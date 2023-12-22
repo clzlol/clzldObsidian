@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key Concepts/MVC.md",
+                "file": "Key Concepts/DDD.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key Concepts/MVC.md",
+                "file": "Key Concepts/DDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key Concepts/MVC.md",
+                "file": "Key Concepts/DDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key Concepts/MVC.md"
+                "file": "Key Concepts/DDD.md"
               }
             }
           }
@@ -158,8 +158,11 @@
   },
   "active": "2777d17da3e36e3f",
   "lastOpenFiles": [
-    "Key Concepts/MarkDown.md",
+    "Key Concepts/MSA.md",
+    "Key Concepts/DDD.md",
+    "Untitled.md",
     "Key Concepts/MVC.md",
+    "Key Concepts/MarkDown.md",
     "Key Concepts/Java/Get Inputs.md",
     "Key Concepts/Protocol/프로토콜.md",
     "Key Concepts/Query.md",
@@ -187,7 +190,6 @@
     "Spaces/Home",
     "Spaces",
     "Errors/Git",
-    "Untitled.md",
     "Obsidian Plugins/imgSrc/git error.png",
     "Key Concepts/Protocol/ssh.md",
     "Key Concepts/Protocol/https.md",
@@ -200,8 +202,6 @@
     "Obsidian Plugins/imgSrc/gitignore.png",
     "Obsidian Plugins/imgSrc/projects properties.png",
     "2023-12-01.md",
-    "Obsidian/Untitled.md",
-    "Excalidraw/Drawing 2023-12-15 21.38.13.excalidraw.md",
     "Obsidian Plugins/imgSrc/execute code.png",
     "Obsidian Plugins/imgSrc/automatic.png"
   ]
