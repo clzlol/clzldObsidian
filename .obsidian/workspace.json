@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key Concepts/DDD.md",
+                "file": "Key Concepts/MSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key Concepts/DDD.md",
+                "file": "Key Concepts/MSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key Concepts/DDD.md",
+                "file": "Key Concepts/MSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key Concepts/DDD.md"
+                "file": "Key Concepts/MSA.md"
               }
             }
           }
@@ -158,10 +158,11 @@
   },
   "active": "2777d17da3e36e3f",
   "lastOpenFiles": [
+    "Key Concepts/MVC.md",
     "Key Concepts/MSA.md",
+    "README.md",
     "Key Concepts/DDD.md",
     "Untitled.md",
-    "Key Concepts/MVC.md",
     "Key Concepts/MarkDown.md",
     "Key Concepts/Java/Get Inputs.md",
     "Key Concepts/Protocol/프로토콜.md",
@@ -201,7 +202,6 @@
     "Obsidian Plugins/imgSrc/Community plugins.png",
     "Obsidian Plugins/imgSrc/gitignore.png",
     "Obsidian Plugins/imgSrc/projects properties.png",
-    "2023-12-01.md",
     "Obsidian Plugins/imgSrc/execute code.png",
     "Obsidian Plugins/imgSrc/automatic.png"
   ]
