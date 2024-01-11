@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b5aa918618f26c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "넛지 면접 질문.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key Concepts/MSA.md",
+                "file": "넛지 면접 질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key Concepts/MSA.md",
+                "file": "넛지 면접 질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key Concepts/MSA.md"
+                "file": "넛지 면접 질문.md"
               }
             }
           }
@@ -156,13 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2777d17da3e36e3f",
+  "active": "b5aa918618f26c04",
   "lastOpenFiles": [
-    "Key Concepts/MVC.md",
     "Key Concepts/MSA.md",
+    "넛지 면접 질문.md",
+    "Key Concepts/MVC.md",
     "README.md",
     "Key Concepts/DDD.md",
-    "Untitled.md",
     "Key Concepts/MarkDown.md",
     "Key Concepts/Java/Get Inputs.md",
     "Key Concepts/Protocol/프로토콜.md",
