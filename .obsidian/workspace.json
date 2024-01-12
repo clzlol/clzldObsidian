@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ca46c173632a11c7",
@@ -156,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2777d17da3e36e3f",
+  "active": "3e61f6539553b3f6",
   "lastOpenFiles": [
     "README.md",
     "Key Concepts/MSA.md",
