@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Errors/Git/gitignore 관련 에러들.md",
+                "file": "넛지 면접 질문.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Errors/Git/gitignore 관련 에러들.md",
+            "file": "넛지 면접 질문.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Errors/Git/gitignore 관련 에러들.md",
+            "file": "넛지 면접 질문.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Errors/Git/gitignore 관련 에러들.md"
+            "file": "넛지 면접 질문.md"
           }
         }
       }
@@ -133,8 +133,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00de9ac5a7bee8ab",
+  "active": "28e10ec9cdb2eddc",
   "lastOpenFiles": [
+    "Errors/Git/gitignore 관련 에러들.md",
     "Key Concepts/Java/Get Inputs.md",
     "Key Concepts/프로토콜.md",
     "Key Concepts/http.md",
@@ -143,7 +144,6 @@
     "Key Concepts/ssh.md",
     "Errors/Git",
     "Errors",
-    "Errors/Git/gitignore 관련 에러들.md",
     "Obsidian Plugins/imgSrc/git error.png",
     "Obsidian Plugins/Obsidian Git.md",
     "Key Concepts/Java",
