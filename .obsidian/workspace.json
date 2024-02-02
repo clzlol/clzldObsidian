@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "넛지 면접 질문.md",
+                "file": "Key Concepts/JavaScript/Why Js.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "넛지 면접 질문.md",
+                "file": "Key Concepts/JavaScript/Why Js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "넛지 면접 질문.md",
+                "file": "Key Concepts/JavaScript/Why Js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "넛지 면접 질문.md"
+                "file": "Key Concepts/JavaScript/Why Js.md"
               }
             }
           }
@@ -158,13 +158,15 @@
   },
   "active": "2777d17da3e36e3f",
   "lastOpenFiles": [
+    "넛지 면접 질문.md",
+    "Key Concepts/JavaScript/Why Js.md",
+    "Key Concepts/JavaScript",
     "conflict-files-obsidian-git.md",
     "Key Concepts/DDD.md",
     "Key Concepts/MarkDown.md",
     "Key Concepts/Git.md",
     "Key Concepts/MSA.md",
     "Key Concepts/MVC.md",
-    "넛지 면접 질문.md",
     "README.md",
     "Key Concepts/Java/Get Inputs.md",
     "Key Concepts/Protocol/프로토콜.md",
@@ -191,11 +193,9 @@
     "Errors/Git/gitignore 관련 에러들.md",
     "Spaces/Home",
     "Spaces",
-    "Errors/Git",
     "Obsidian Plugins/imgSrc/git error.png",
     "Key Concepts/Protocol/ssh.md",
     "Key Concepts/Protocol/https.md",
-    "Excalidraw/Drawing 2023-12-15 23.46.33.excalidraw.md",
     "Obsidian Plugins/imgSrc/projects add view.png",
     "Obsidian Plugins/imgSrc/projects created.png",
     "Obsidian Plugins/imgSrc/projects create.png",
