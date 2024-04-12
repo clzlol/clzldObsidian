@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key Concepts/JavaScript/Why Js.md",
+                "file": "넛지 면접 질문.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6e3b5d52367ce15",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key Concepts/JavaScript/Why Js.md",
+                "file": "넛지 면접 질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key Concepts/JavaScript/Why Js.md",
+                "file": "넛지 면접 질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key Concepts/JavaScript/Why Js.md"
+                "file": "넛지 면접 질문.md"
               }
             }
           }
@@ -156,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2777d17da3e36e3f",
+  "active": "d6e3b5d52367ce15",
   "lastOpenFiles": [
-    "넛지 면접 질문.md",
     "Key Concepts/JavaScript/Why Js.md",
+    "넛지 면접 질문.md",
     "Key Concepts/JavaScript",
     "conflict-files-obsidian-git.md",
     "Key Concepts/DDD.md",
